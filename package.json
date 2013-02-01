@@ -1,0 +1,9 @@
+{ 
+	"name" : "PushNotification",
+	"description" : "My first push notification application using NodeJs",
+	"version" : "0.0.1",
+	"dependencies": { 
+		"socket.io"	: "*",
+		"express" 	: "3.x"
+	}
+}
