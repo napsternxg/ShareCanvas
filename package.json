@@ -1,6 +1,6 @@
 { 
-	"name" : "PushNotification",
-	"description" : "My first push notification application using NodeJs",
+	"name" : "SharedCanvas",
+	"description" : "Simple canvas drawing application which uses socket.io on Nodejs to allow multiple users to draw together.",
 	"version" : "0.0.1",
 	"dependencies": { 
 		"socket.io"	: "0.9.x",
