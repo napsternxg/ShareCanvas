@@ -1,6 +1,12 @@
 var canvas = document.querySelector("#board");
 var context = canvas.getContext("2d");
 
+
+var sketch = document.querySelector('#wrapper');
+var sketch_style = getComputedStyle(sketch);
+canvas.width = parseInt(sketch_style.getPropertyValue('width'));
+canvas.height = parseInt(sketch_style.getPropertyValue('height'));
+
 var mouse = {
 	x: 0,
 	y: 0
