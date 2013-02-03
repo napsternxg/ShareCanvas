@@ -17,7 +17,7 @@ Installation
 ------------
 
  * Clone the project
- * Run ```npm install```
- * Run ```node server.js```
+ * Run ```npm install``` - Installs all required node_modules for the project.
+ * Run ```node server.js``` - Starts a server at localhost:3000
 
 To be added soon.
