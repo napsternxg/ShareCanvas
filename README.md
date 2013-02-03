@@ -16,4 +16,8 @@ __Refer to package.json for package details__
 Installation
 ------------
 
+ * Clone the project
+ * Run ```npm install```
+ * Run ```node server.js```
+
 To be added soon.
